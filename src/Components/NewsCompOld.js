@@ -13,8 +13,6 @@ import PropTypes from 'prop-types'
 
 
 
-
-
 export default class NewsCompOld extends Component {
     static defaultProps = {
       country:'in',

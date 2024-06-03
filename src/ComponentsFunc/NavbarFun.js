@@ -28,7 +28,6 @@ const  NavbarFun =()=> {
               <li className="nav-item"> <Link className="nav-link" to="/sports">Sports</Link></li>
               <li className="nav-item"> <Link className="nav-link" to="/technology">Technology</Link></li> */}
 
-
               <li className="nav-item dropdown">
                 <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Dropdown

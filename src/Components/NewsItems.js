@@ -10,6 +10,9 @@ export default class NewsItems extends Component {
     return (
       <>
 
+
+
+
 <div className="card my-2" style={{width: "18rem"}}>
  <span className='position-absolute top-0   badge rounded-pill bg-danger m-1'  style={{right:"0.2%", zIndex:'1'}}>{source}</span>
   <img src={!imageUrl? "https://img.freepik.com/free-vector/no-multiply-font-vector-text-typography_53876-168227.jpg" : imageUrl} className="card-img-top" alt="channel--37"/>

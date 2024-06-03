@@ -9,5 +9,4 @@ const SpinnerFun = () => {
         </div>
       )
 }
-
 export default SpinnerFun

@@ -134,6 +134,8 @@
 //             </div>
 //           })
 //           }
+
+
 //           <div className='container d-flex justify-content-between my-2'>
 //             <button disabled={this.state.page <= 1} className="btn btn-dark" onClick={this.handlePrevClick} >&larr; Prev </button>
 //             <button disabled={this.state.page + 1 > Math.ceil(this.state.totalResults / this.props.pageSize)} className="btn btn-dark" onClick={this.handleNextClick} >Next &rarr;</button>

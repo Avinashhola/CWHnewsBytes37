@@ -15,8 +15,6 @@ const NewsCompOldFun =(props)=> {
     const [totalResults, setTotalResults] = useState(0)
 // document.title = `${cpitalizefirstLetterfunc(props.category)} - Channel37`
 
-
-
 const cpitalizefirstLetterfunc = (string)=>{
   return string.charAt(0).toUpperCase() +string.slice(1);
 }

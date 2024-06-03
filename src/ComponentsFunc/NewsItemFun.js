@@ -14,6 +14,7 @@ const NewsItemFun = (props) => {
       <p className="card-text">{descript}...</p>
       <div>
         
+      
         <p className="card-text  text-end my-2"><small className="text-body-secondary">{date} </small></p>
         <p className="card-text  text-end "><small className="text-body-secondary">{authorName}</small></p>
         <a href={newsUrl} target='_blank' className="btn btn-dark">Go somewhere &rarr;</a>

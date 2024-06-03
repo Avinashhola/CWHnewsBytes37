@@ -8,7 +8,6 @@ import Spinner from './Spinner';
 
 export default class NewsComp extends Component {
 
-
   articlesy = [
     {
       "source": {

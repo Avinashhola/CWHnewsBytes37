@@ -8,8 +8,6 @@ export default class Spinner extends Component {
     return (
       <div className='text-center'>
             <img src="https://loading.io/assets/mod/spinner/spin/lg.gif" alt="loader" />
-
-
       </div>
     )
   }
